@@ -1,3 +1,9 @@
+/**
+ * @file Huffman.h - Implementation of BitStream destined for a binary file.
+ * @author Kevin Lundeen
+ * @see "Seattle University, CPSC2430, Spring 2018"
+ */
+
 #pragma once
 #include <iostream>
 #include <fstream>
