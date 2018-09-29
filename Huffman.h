@@ -1,9 +1,3 @@
-/**
- * @file Huffman.h - Huffman encoder/decoder
- * @author Kevin Lundeen
- * @see "Seattle University, CPSC2430, Spring 2018"
- */
-
 #pragma once
 #include <iostream>
 #include <fstream>
